@@ -24,11 +24,6 @@ description: Website about my academic interests, journey, etc.
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  About This Blog: "aboutblog"
-  Blogroll:
-    - R-bloggers: "https://www.r-bloggers.com/"
-    - Maëlle Not a fish: "http://www.masalmon.eu/"
-    - Shirin's playgRound: "https://shiring.github.io/"
 
 #    - GitHub Pages: "https://pages.github.com/"
 #  Author's home: "http://deanattali.com"
@@ -47,11 +42,11 @@ avatar: "/img/letter-R.jpg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Graham Cooper
-  github: cooperg   # eg. daattali
-  twitter: cooperg   # eg. daattali
+  github: CoopG   # eg. daattali
+  twitter: gtacoop   # eg. daattali
   reddit: ""    # eg. daattali
   google-plus: ""   # eg. +DeanAttali or 109424658772469020925
-  linkedin: ""  # eg. daattali
+  linkedin: graham-cooper-55125582  # eg. daattali
   xing: ""      # eg. daattali
   stackoverflow: ""  # eg. "3943160/daattali"
   snapchat: ""  # eg. daattali
@@ -62,7 +57,7 @@ author:
 
 # Select which links to show in the footer
 footer-links-active:
-  rss: true
+  rss: false
   facebook: false
   email: false
   twitter: true
@@ -83,7 +78,7 @@ share-links-active:
   twitter: true
   facebook: false
   google: false
-  linkedin: false
+  linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -114,7 +109,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Berlin"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/

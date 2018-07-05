@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: http://kkulma.github.io
+url: http://cooperg.github.io
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Kasia Kulma
+title: Graham Cooper
 
 # Short description of your site
-description: Data fun and exploration
+description: Website about my academic interests, journey, etc.
 
 # --- Navigation bar options --- #
 
@@ -29,7 +29,7 @@ navbar-links:
     - R-bloggers: "https://www.r-bloggers.com/"
     - Maëlle Not a fish: "http://www.masalmon.eu/"
     - Shirin's playgRound: "https://shiring.github.io/"
-    
+
 #    - GitHub Pages: "https://pages.github.com/"
 #  Author's home: "http://deanattali.com"
 
@@ -46,14 +46,14 @@ avatar: "/img/letter-R.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Kasia Kulma
-  github: kkulma    # eg. daattali
-  twitter: kkulma   # eg. daattali
+  name: Graham Cooper
+  github: cooperg   # eg. daattali
+  twitter: cooperg   # eg. daattali
   reddit: ""    # eg. daattali
   google-plus: ""   # eg. +DeanAttali or 109424658772469020925
-  linkedin: kasia-kulma-phd-7695b923  # eg. daattali
+  linkedin: ""  # eg. daattali
   xing: ""      # eg. daattali
-  stackoverflow: 6327771/kasia-kulma  # eg. "3943160/daattali"
+  stackoverflow: ""  # eg. "3943160/daattali"
   snapchat: ""  # eg. daattali
   instagram: "" # eg. daattali
   youtube: ""   # eg. user/daattali or channel/daattali
@@ -81,9 +81,9 @@ footer-links-active:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -91,10 +91,10 @@ url-pretty: ""  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: https-kkulma-github-io
+disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: UA-92539076-1
+google_analytics: ""
 
 
 # Google Tag Manager ID

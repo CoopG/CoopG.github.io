@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Graham Cooper
+title: @gtacoop
 
 # Short description of your site
 description: Website about my academic interests, journey, etc.
@@ -23,7 +23,14 @@ description: Website about my academic interests, journey, etc.
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me:
+    - Researcher: "aboutresearch"
+    - Musician: "aboutmusic"
+  Research:
+    - Projects: "projects"
+    - Publications: "publications"
+  Music Making: "musicmaking"
+
 
 #    - GitHub Pages: "https://pages.github.com/"
 #  Author's home: "http://deanattali.com"
@@ -199,7 +206,8 @@ prose:
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
 
-theme: jekyll-theme-slate
+gems:
+  - jekyll-paginate
 
 
 # Beautiful Jekyll / Dean Attali

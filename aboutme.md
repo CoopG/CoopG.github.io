@@ -3,11 +3,6 @@ layout: page
 title: About me
 subtitle: ""
 ---
+# TO DO
 
-Overall, enthusiastic science enthusiast.
-
-Formally, doctor in evolutionary biology.
-
-Professionally, data scientist.
-
-Privately, soppy mum and outdoors lover.
+* include some information about myself here

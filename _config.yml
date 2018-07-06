@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: @gtacoop
+title: Graham Cooper
 
 # Short description of your site
 description: Website about my academic interests, journey, etc.
@@ -212,3 +212,5 @@ gems:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
+
+theme: jekyll-theme-slate

@@ -6,18 +6,30 @@ subtitle: "Researcher"
 Education
 =========
 
-*PhD Fellow* October 2017 - Present
+*PhD Fellow*
+
+
+October 2017 - Present
+
+
 Einstein Center for Neurosciences, Humboldt University of Berlin,
 Germany
+
+
 *Courses*:
 
 - Neuroanatomy, Philosophy of Mind, Clinical Neuroscience,
  Experimental Lecture Series on Models of Neural Systems, Programming
  in MATLAB, Open Innovation in Science
 
-*MSc Human Cognitive Neuropsychology* October 2016 -
-August 2017
+*MSc Human Cognitive Neuropsychology*
+
+October 2016 - August 2017
+
+
 University of Edinburgh, Scotland
+
+
 *Dissertation*:
 
 - Health related quality of life in people with Multiple Sclerosis -
@@ -34,9 +46,17 @@ University of Edinburgh, Scotland
  Statistics and Methodology using R, Dissertation in Human Cognitive
  Neuropsychology
 
-*BSc (Hons) Psychology* October 2012 - June 2016
+*BSc (Hons) Psychology*
+
+October 2012 - June 2016
+
+
 University of Bath, England
+
+
 First class honors with 11-month applied psychology placement
+
+
 *Dissertation*:
 
 - Evaluation of proxy measures of quality of life in acquired brain

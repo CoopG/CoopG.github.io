@@ -1,0 +1,17 @@
+.mv-dayname, .st-dtitle {
+  font-family: 'Lora', 'Times New Roman', serif;
+  color: #404040;
+  font-size: 14px;
+}
+.st-dtitle {
+  background: white !important;
+  border: none;
+}
+.view-cap {
+  background-color: white;
+  border: none;
+}
+.st-bg {
+  background: white;
+  border: none;
+}

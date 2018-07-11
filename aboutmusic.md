@@ -37,7 +37,7 @@ Recordings and Broadcasts
 
 **BBC Radio 3, Choral Evensong with Genesis Sixteen**: *2017, Harry Christophers, Eamonn Dougan and Ben Cox*
 
-**William Mundy: Sacred Choral Music(includes solo)**: *2016, Duncan Ferguson*
+**William Mundy: Sacred Choral Music (includes solo)**: *2016, Duncan Ferguson*
 
 * Purchase CD [here](https://www.prestoclassical.co.uk/classical/products/8438820--william-mundy-sacred-choral-music#reviews)
 

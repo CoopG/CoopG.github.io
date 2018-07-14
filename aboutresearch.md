@@ -4,7 +4,7 @@ title: About me
 subtitle: "Researcher"
 ---
 
-My main interest as a neuroscientist is how the disruption of neural connections (white matter) in diseases such as multiple sclerosis can effect how quickly people can respond to their environment and also their thinking skills (such as memory, organisation, etc.).
+My main interest as a neuroscientist is how the disruption of neural connections (white matter) in diseases such as multiple sclerosis can affect thinking skills (such as memory and organisation) and also how quickly people can respond to their environment.
 
 Clinically, I work with patients with multiple sclerosis and administer neuropsychological tests. This allows the clinic to keep track of any problems with thinking that might develop as the disease progresses. I also work in the MRI team, assisting with scanning patients.
 

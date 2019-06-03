@@ -4,7 +4,7 @@ title: Music Making
 subtitle: ""
 weight: 98
 ---
-I currently sing regularly with [Sestina](https://www.sestinamusic.com/) and [Echo](http://www.echo-choir.com/).
+I currently sing regularly with [Sestina](https://www.sestinamusic.com/).
 
  For upcoming events, take a look at the calendar below. Where tickets are available online, the link can be found in the calendar entry.
 

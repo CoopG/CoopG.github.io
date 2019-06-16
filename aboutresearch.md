@@ -4,7 +4,11 @@ title: About me
 subtitle: "Researcher"
 ---
 
-The main focus of my research is expanding the application of MRI techniques in multiple sclerosis in order to improve diagnosis, better understand the disease, and develop measureable biomarkers to track treatment success. As a translational neuroscientist, I act as the "middle man" between a number of different aspects of neuroscience. Primarily, I find interesting technological developments from the MRI community and "translate" these into the clinic by testing and applying them in multiple sclerosis. I also work with animal models of multiple sclerosis, which enables us to answer questions about the disease that require more invasive methods, such as histology and "translate" the findings from these experiments back to the disease in humans. In other words, I am a Jack of all trades, keeping the big picture in mind and always thinking about how to innovatively translate findings or discoveries from one aspect of neuroscience to another. This means that I have the opportunity to work and collaborate with a wide range of experts in different fields, utilising my organisational, project management and networking skills, which I love!
+The main focus of my research is expanding the application of MRI techniques in multiple sclerosis in order to improve diagnosis, better understand the disease, and develop measureable biomarkers to track treatment success. 
+
+As a translational neuroscientist, I act as the "middle man" between a number of different aspects of neuroscience. Primarily, I find interesting technological developments from the MRI community and "translate" these into the clinic by testing and applying them in multiple sclerosis. I also work with animal models of multiple sclerosis, which enables us to answer questions about the disease that require more invasive methods, such as histology and "translate" the findings from these experiments back to the disease in humans. 
+
+In other words, I am a Jack of all trades, keeping the big picture in mind and always thinking about how to innovatively translate findings or discoveries from one aspect of neuroscience to another. This means that I have the opportunity to work and collaborate with a wide range of experts in different fields, utilising my organisational, project management and networking skills, which I love!
 
 The key methods I use in my research are: 
 
@@ -52,6 +56,10 @@ Conferences
 - *Fondation pour l'aide á la recherche sur la sclerose en placques (ARSEP), Paris, France* - Poster presentation entitled "Standardization of T1w/T2w Ratio Improves Detection of Tissue Damage in MS"
 - *International Multiple Sclerosis Cognition Society (IMSCOGS), Amsterdam, Netherlands*
 - *Small Animal MRI Symposium (SAMS), Hannover, Germany* - Poster presentation entitled "A study protocol to assess the validity and translational potential of multi-parmateric mapping of R1, R2*, PD and MT"
+
+**2018**:
+- *European Committee for Treatment and Research in Multiple Sclerosis (ECTRIMS), Berlin, Germany* - Poster presentation entitled "Normal Appearing White Matter Damage Detected by the Standardized T1w/T2w Ratio"
+- *International Multiple Sclerosis Cognition Society (IMSCOGS), Berlin, Germany* - Assisted with running of the conference
 
 ---
 

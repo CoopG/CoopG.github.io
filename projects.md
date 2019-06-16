@@ -4,7 +4,12 @@ title: Projects
 subtitle: ""
 ---
 
-As described in my [about me](aboutresearch.md), my research has two main aspects: 1) Translating MRI developments to the Clinic, and 2) Translating between clinical and pre-clinical research. Below, I describe any published works relating to these to aspects.
+As described in my [about me](aboutresearch.md), my research has two main aspects: 
+
+    1) Translating MRI developments to the Clinic
+     2) Translating between clinical and pre-clinical research. 
+     
+Below, I describe our published data in projects relating to these two themes.
 
 # Translating MRI Developments to the Clinic
 
@@ -15,9 +20,9 @@ It has recently been shown that the ratio of two typically-acquired scans, T1-we
 
 Elsewhere in the MRI field it was shown that standardizing the ratio significantly reduces scanner-specific effects and produces a scaled value between -1 and 1. This overcomes the barriers to clinical application. 
 
-In our work, we are investigating the clinical applicability of the standardized T1w/T2w ratio as a measure of NAWM in multiple sclerosis. As a first step, we showed that the (standardization method was robust against disease-related irregularities in the scan and that it was sensitive to tissue damage in established multiple sclerosis patients)[https://doi.org/10.3389/fneur.2019.00334]. Our next steps will involve evaluating this measure in early MS, investigating how it changes over time and in different centers as well as using it in retrospective analyses where only clinical scan data is available. 
+In our work, we are investigating the clinical applicability of the standardized T1w/T2w ratio as a measure of NAWM in multiple sclerosis. As a first step, we showed that the standardization method was robust against disease-related irregularities in the scan and that it was sensitive to tissue damage in established multiple sclerosis patients. Our next steps will involve evaluating this measure in early MS, investigating how it changes over time and in different centers as well as using it in retrospective analyses where only clinical scan data is available. 
 
-If you are interested in applying the technique on your data or have any questions about our approach, please feel free to email me using the link below!
+If you are interested in applying the technique on your data or have any questions about our approach, please check out the [paper](https://doi.org/10.3389/fneur.2019.00334) and feel free to email me using the link below!
 
 # Translating between Clinical and Pre-Clinical Research (Bench to Bedside and Back Again)
 I haven't published any papers in this area yet but watch this space!

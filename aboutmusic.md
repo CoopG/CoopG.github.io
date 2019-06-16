@@ -9,7 +9,7 @@ See my qualifications and list of recordings and broadcasts below. Alternatively
 
 ---
 
-Young Singer's Schemes
+Training
 ======================
 **Schola, Rundfunkchor**: *2018*
 
@@ -18,6 +18,14 @@ Performed at the Berlin Philharmonie as part of Rundfunkchor Berlin's Schola. Co
 **Genesis Sixteen**: *2016 - 2017*
 
 Participated in the Sixteen's young singers scheme conducted by **Harry Christophers**, **Eamonn Dougan** and **Ben Cox**
+
+**Lay Clerk, St Mary's Episcopal Cathedral, Edinburgh, Scotland**: *2017 - 2018*
+
+Sang daily services, CD recordings and Radio Broadcasts under direction of **Duncan Ferguson**
+
+**Choral Scholar, Bath Abbey, Bath, England**: *2012 - 2016*
+
+Sang daily services, CD recordings, TV and Radio Broadcasts under direction of **Peter King**
 
 Qualifications
 ==============

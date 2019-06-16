@@ -6,8 +6,9 @@ subtitle: ""
 
 As described in my [about me](aboutresearch.md), my research has two main aspects: 
 
-    1) Translating MRI developments to the Clinic
-     2) Translating between clinical and pre-clinical research. 
+    - Translating MRI developments to the Clinic
+    
+    - Translating between clinical and pre-clinical research (Bench to Bedside and Back Again). 
      
 Below, I describe our published data in projects relating to these two themes.
 

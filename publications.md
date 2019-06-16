@@ -6,6 +6,8 @@ subtitle: ""
 
 So far I have published the following papers and conference posters. Please see my [projects page](projects.md) for more detailed information about the projects.
 
+---
+
 Peer-reviewed Journal Articles
 ==============================
 

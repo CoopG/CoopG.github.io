@@ -14,10 +14,13 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Graham Cooper
+title: Graham Cooper | PhD Fellow at Charité Universitätsmedizin, Berlin and freelance tenor singing with Sestina, Northern Ireland
 
 # Short description of your site
-description:
+description: I'm Graham Cooper, a PhD fellow working at Charité Universitätsmedizin Berlin supervised by Friedemann Paul,
+ Carsten Finke and Philipp Böhm-Sturm. I'm studying multiple sclerosis neuroimmunology and myelination using quantitative 
+ magnetic resonance imaging techniques in patients and animal models. I'm also a professional tenor, studying under 
+ Lothar Odinius in Berlin and working primarily with Sestina in Northern Ireland and Echo in London.
 
 # --- Navigation bar options --- #
 
@@ -66,7 +69,7 @@ author:
 footer-links-active:
   rss: false
   facebook: false
-  email: false
+  email: true
   twitter: true
   google-plus: false
   github: true
@@ -96,7 +99,7 @@ url-pretty: ""  # eg. "deanattali.com/beautiful-jekyll"
 disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: ""
+google_analytics: "UA-142212755-1"
 
 
 # Google Tag Manager ID

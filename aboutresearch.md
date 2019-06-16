@@ -54,13 +54,17 @@ Conferences
 - *European Committee for Treatment and Research in Multiple Sclerosis (ECTRIMS), Stockholm, Sweden*
 
 **2019**:
-- *Fondation pour l'aide á la recherche sur la sclerose en placques (ARSEP), Paris, France* - **Poster presentation** entitled "Standardization of T1w/T2w Ratio Improves Detection of Tissue Damage in MS"
+- *Fondation pour l'aide á la recherche sur la sclerose en placques (ARSEP), Paris, France* 
+    - **Poster presentation** entitled "Standardization of T1w/T2w Ratio Improves Detection of Tissue Damage in MS"
 - *International Multiple Sclerosis Cognition Society (IMSCOGS), Amsterdam, Netherlands*
-- *Small Animal MRI Symposium (SAMS), Hannover, Germany* - **Poster presentation** entitled "A study protocol to assess the validity and translational potential of multi-parmateric mapping of R1, R2*, PD and MT"
+- *Small Animal MRI Symposium (SAMS), Hannover, Germany* 
+    - **Poster presentation** entitled "A study protocol to assess the validity and translational potential of multi-parmateric mapping of R1, R2*, PD and MT"
 
 **2018**:
-- *European Committee for Treatment and Research in Multiple Sclerosis (ECTRIMS), Berlin, Germany* - **Poster presentation** entitled "Normal Appearing White Matter Damage Detected by the Standardized T1w/T2w Ratio"
-- *International Multiple Sclerosis Cognition Society (IMSCOGS), Berlin, Germany* - Assisted with running of the conference
+- *European Committee for Treatment and Research in Multiple Sclerosis (ECTRIMS), Berlin, Germany* 
+    - **Poster presentation** entitled "Normal Appearing White Matter Damage Detected by the Standardized T1w/T2w Ratio"
+- *International Multiple Sclerosis Cognition Society (IMSCOGS), Berlin, Germany* 
+    - Assisted with running of the conference
 
 ---
 
@@ -68,4 +72,5 @@ Invited Talks
 =============
 
 **2019**:
-- *Workshop der Differentialdiagnosen der MS (MS Differential Diagnosis Workshop), Graz, Austria* - **Merck funded talk** entitled "Assessing cognitive function of all MS patients at time of first diagnosis" (in German)
+- *Workshop der Differentialdiagnosen der MS (MS Differential Diagnosis Workshop), Graz, Austria* 
+    - **Merck funded talk** entitled "Assessing cognitive function of all MS patients at time of first diagnosis" (in German)

@@ -9,11 +9,6 @@ My main areas of research are:
 * quantitative MRI methods (multi-parameter mapping)
 * white matter MRI
 
-An overview of my research projects is coming soon. In the meantime, check out my lab's [website](http://neurodial.de/)
+# Translating MRI Developments to the Clinic
 
-<!-- # PhD Projects
-## 1: Multi-parameter Mapping in Multiple Sclerosis
-
-## 2: Validation of Multi-parameter Mapping Signal Source using Experimental Autoimmune Encephalitis
-
-## 3: Investigation of the use of T1/T2 ratio to detect normal appearing white matter damage in multiple sclerosis -->
+## 1: Standardized T1w/T2w Ratio in Multiple Sclerosis

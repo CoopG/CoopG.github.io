@@ -4,11 +4,22 @@ title: About me
 subtitle: "Researcher"
 ---
 
-My main interest as a neuroscientist is how the disruption of neural connections (white matter) in diseases such as multiple sclerosis can affect thinking skills (such as memory and organisation) and also how quickly people can respond to their environment.
+The main focus of my research is expanding the application of MRI techniques in multiple sclerosis in order to improve diagnosis, better understand the disease, and develop measureable biomarkers to track treatment success. As a translational neuroscientist, I act as the "middle man" between a number of different aspects of neuroscience. Primarily, I find interesting technological developments from the MRI community and "translate" these into the clinic by testing and applying them in multiple sclerosis. I also work with animal models of multiple sclerosis, which enables us to answer questions about the disease that require more invasive methods, such as histology and "translate" the findings from these experiments back to the disease in humans. In other words, I am a Jack of all trades, keeping the big picture in mind and always thinking about how to innovatively translate findings or discoveries from one aspect of neuroscience to another. This means that I have the opportunity to work and collaborate with a wide range of experts in different fields, utilising my organisational, project management and networking skills, which I love!
 
-Clinically, I work with patients with multiple sclerosis and administer neuropsychological tests. This allows the clinic to keep track of any problems with thinking that might develop as the disease progresses. I also work in the MRI team, assisting with scanning patients.
+The key methods I use in my research are: 
 
-My PhD research focusses on the application of quantitative MRI techniques to evaluate white matter damage in multiple sclerosis. For more information about my projects, see my [projects page](projects.md)
+- Programming for MRI analysis (Python, MATLAB, Bash, FSL, ANTX, SPM12, CAT12)
+- Programming for statistical analysis and presentations (R, Python)
+- Neuropsychological assessment
+- MRI acquisition in humans and small animals
+- Histology and immunohistochemistry
+- Analysis of clinical data (diagnostic information including lumbar puncture, cognitive and questionnaire data)
+
+The main MRI techniques I use are:
+
+- Quantitative Multi-Parametric Mapping (MPM)
+- T1w/T2w Ratio
+- Standardized T1w/T2w Ratio
 
 ---
 
@@ -17,56 +28,35 @@ Education
 
 **PhD Fellow**: *October 2017 - Present*
 
-
-Einstein Center for Neurosciences, Humboldt University of Berlin,
+International Graduate School Medical Neurosciences, Humboldt University of Berlin,
 Germany
+Funded by the Einstein Center for Neurosciences, Berlin, Germany
 
+**MSc Human Cognitive Neuropsychology (Distinction)**: *October 2016 - September 2017*
 
-*Courses*:
+University of Edinburgh, Edinburgh, Scotland
 
-- Neuroanatomy, Philosophy of Mind, Clinical Neuroscience,
- Experimental Lecture Series on Models of Neural Systems, Programming
- in MATLAB, Open Innovation in Science, Functional Neuroanatomy
+**BSc (Hons) Psychology (First Class)**: *October 2012 - June 2016*
 
-**MSc Human Cognitive Neuropsychology**: *October 2016 - August 2017*
+University of Bath, Bath, England
 
+---
 
-University of Edinburgh, Scotland
+Conferences
+===========
 
-Distinction
+**2019 (Planned)**:
+- *European Committee for Treatment and Research in Multiple Sclerosis (ECTRIMS), Stockholm, Sweden*
 
-*Dissertation*:
+**2019**:
+- *Fondation pour l'aide á la recherche sur la sclerose en placques (ARSEP), Paris, France* - Poster presentation entitled "Standardization of T1w/T2w Ratio Improves Detection of Tissue Damage in MS"
+- *International Multiple Sclerosis Cognition Society (IMSCOGS), Amsterdam, Netherlands*
+- *Small Animal MRI Symposium (SAMS), Hannover, Germany* - Poster presentation entitled "A study protocol to assess the validity and translational potential of multi-parmateric mapping of R1, R2*, PD and MT"
 
-- Health related quality of life in people with Multiple Sclerosis -
- Impact of information processing speed and validation of the
- WHOQOL-SRPB-BREF
+---
 
-*Modules*:
+Invited Talks
+=============
 
-- Clinical Neuropsychology, Working Memory, Consciousness and
- Perceptual Awareness, Psychological Research Skills, Specialist
- Techniques in Psychological Research, Current Topics in
- Psychological Research, Computational Cognitive Neuroscience, Brain
- Imaging in Cognitive Neuroscience, Univariate and Multivariate
- Statistics and Methodology using R, Dissertation in Human Cognitive
- Neuropsychology
-
-**BSc (Hons) Psychology**: *October 2012 - June 2016*
-
-
-University of Bath, England
-
-
-First class honors with 11-month applied psychology placement
-
-
-*Dissertation*:
-
-- Evaluation of proxy measures of quality of life in acquired brain
- injury
-
-*Key Modules*:
-
-- Clinical Psychology, Developmental Psychopathology, Quantitative
- Methods, Psychology and Neuroscience of Blindness, Affective
- Neuroscience, Cognitive Psychology, Biological Psychology
+**2019**:
+- *Workshop der Differentialdiagnosen der MS (MS Differential Diagnosis Workshop), Graz, Austria* - Merck funded talk entitled "Assessing cognitive function of all MS patients at time of first diagnosis" (in German)

@@ -12,6 +12,8 @@ As described in my [about me](aboutresearch.md), my research has two main aspect
      
 Below, I describe our published data in projects relating to these two themes.
 
+---
+
 # Translating MRI Developments to the Clinic
 
 ## 1: Standardized T1w/T2w Ratio 

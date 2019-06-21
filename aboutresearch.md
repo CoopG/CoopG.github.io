@@ -58,7 +58,7 @@ Conferences
     - **Poster presentation** entitled "Standardization of T1w/T2w Ratio Improves Detection of Tissue Damage in MS"
 - *International Multiple Sclerosis Cognition Society (IMSCOGS), Amsterdam, Netherlands*
 - *Small Animal MRI Symposium (SAMS), Hannover, Germany* 
-    - **Poster presentation** entitled "A study protocol to assess the validity and translational potential of multi-parmateric mapping of R1, R2*, PD and MT"
+    - **Poster presentation** entitled "A study protocol to assess the validity and translational potential of multi-parameteric mapping of R1, R2*, PD and MT"
 
 **2018**:
 - *European Committee for Treatment and Research in Multiple Sclerosis (ECTRIMS), Berlin, Germany* 

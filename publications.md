@@ -15,8 +15,6 @@ Peer-reviewed Journal Articles
 
 Juenger, V., **Cooper, G.**, Chien, C., Chikermane, M., Cosima Oertel, F., Zimmermann, H., Ruprecht, K., Siebert, N., Kuchling, J., Papadopoulou, A., Asseyer, S., Bellmann-Strobl, J., Paul, F., & Scheel, M. (Submitted). *Optic Chiasm Assessment on Clinical Standard 3D T1-w MRI Detects Optic Nerve Atrophy.* American Journal of Neuroradiology.
 
-Brandt, A. U., Sy, M., Lee, S-U, Newton, B. L., Bellmann-Strobl, J., Pawling, J., Li, C. F., Zimmermann, H. G., Hayama, K. L., Golzar, A., Rahman, A. A., Yu, Z., Kuhle, J., **Cooper, G.**, Chien, C., Scheel, M., D\''orr, J. M., Wuerfel, J. Th., Dennis, J. W., Paul, F., Demetriou, M. (Submitted). *N-Acetylglucosamine supports myelin repair and neuroprotection in multiple sclerosis.* Science.
-
 *Published Articles*:
 
 **Cooper, G.**, Finke, C., Chien, C., Asseyer, S., Brandt, A.U., Ruprecht, K., Bellmann-Strobl, J., Paul, F., & Scheel, M. (2019). *Standardization of T1w/T2w Ratio Improves Detection of Tissue Damage in Multiple Sclerosis.* Frontiers in Neurology - Applied Neuroimaging. doi: 10.3389/fneur.2019.00334

@@ -11,10 +11,6 @@ So far I have published the following papers and conference posters. Please see 
 Peer-reviewed Journal Articles
 ==============================
 
-*Submitted to Journals*:
-
-Juenger, V., **Cooper, G.**, Chien, C., Chikermane, M., Cosima Oertel, F., Zimmermann, H., Ruprecht, K., Siebert, N., Kuchling, J., Papadopoulou, A., Asseyer, S., Bellmann-Strobl, J., Paul, F., & Scheel, M. (Submitted). *Optic Chiasm Assessment on Clinical Standard 3D T1-w MRI Detects Optic Nerve Atrophy.* American Journal of Neuroradiology.
-
 *Published Articles*:
 
 **Cooper, G.**, Finke, C., Chien, C., Asseyer, S., Brandt, A.U., Ruprecht, K., Bellmann-Strobl, J., Paul, F., & Scheel, M. (2019). *Standardization of T1w/T2w Ratio Improves Detection of Tissue Damage in Multiple Sclerosis.* Frontiers in Neurology - Applied Neuroimaging. doi: 10.3389/fneur.2019.00334
@@ -23,6 +19,10 @@ Bartels, F., Nobis, K., **Cooper, G.**, Hennes, E., Anlar, B., Cleaveland, B., K
 
 Conference Posters
 ==================
+
+**Cooper, G.**, Chien, C., Juenger, V., Bellmann-Strobl, J., Kuchling, J., Asseyer, S., Ruprecht, K., Brandt, A.U., Scheel, M., Paul, F., & Finke, C. (2019). *Association between humoural cerebrospinal fluid markers, periventricular lesion density and cortical thickness in early multiple sclerosis* ECTRIMS 2019.
+
+Otte, K., Drebinger, D., Roehling, H., Kroneberg, D., Althoff, P., Schließeit, J., **Cooper, G.**, Arsenova, R., Bellmann-Strobl, J., Brandt, A.U., Paul, F., & Schmitz-Huebsch, T. (2019). *Investigating independent gait domains in patients with multiple sclerosis* ECTRIMS 2019.
 
 **Cooper, G.**, Koch, S. P., Mueller, S., Chien, C., Vieira da Silva, R., Finke, C., Infante-Duarte, C., Paul, F., Scheel, M., Hetzer, S., & Boehm-Sturm, P. (2019). *A study protocol to assess the stability and translational value of quantitative multiparameter mapping of R1, R2*, PD and MT.* Small Animal MRI Symposium 2019.
 

@@ -8,7 +8,7 @@ The main focus of my research is the application of quantitative MRI techniques 
 
 As a translational neuroscientist, I  primarily find interesting technological developments from the MRI community and translate these into the clinic by testing and applying them in multiple sclerosis. I also work with animal models of multiple sclerosis, which enables us to answer questions about the disease that require more invasive methods, such as histology, and translate the findings from these experiments back to the disease in humans. 
 
-My main area of expertise is in MRI analysis but I get to dip my toes in a wide range of techniques and approaches, thinking about how to innovatively translate findings or discoveries from one aspect to another. This means that I have the opportunity to work and collaborate with a wide range of experts in different fields, utilising my organisational, project management and networking skills, which I love!
+My main expertise is in MRI analysis but I get to dip my toes in a wide range of techniques and approaches. This means that I have the opportunity to work and collaborate with a wide range of experts in different fields, utilising my organisational, project management and networking skills, which I love!
 
 The key methods I use in my research are: 
 
@@ -51,7 +51,7 @@ Conferences
 
 **2019**:
 - *European Committee for Treatment and Research in Multiple Sclerosis (ECTRIMS), Stockholm, Sweden*
-    - **Poster presentation** entitled "Association between humoural cerebrospinal fluid markers, periventricular lesion density and cortical thickness in early multiple sclerosis"
+    - **Poster presentation** entitled "Association between humoral cerebrospinal fluid markers, periventricular lesion density and cortical thickness in early multiple sclerosis"
 - *Fondation pour l'aide á la recherche sur la sclerose en placques (ARSEP), Paris, France* 
     - **Poster presentation** entitled "Standardization of T1w/T2w Ratio Improves Detection of Tissue Damage in MS"
 - *International Multiple Sclerosis Cognition Society (IMSCOGS), Amsterdam, Netherlands*
@@ -70,7 +70,7 @@ Invited Talks
 =============
 
 **2019**:
-- *Neuroimmunological Colloquium, Charité, Berlin, Germany*
+- *Neuroimmunological Colloquium Neuroimmunological Colloquium, Charité - Universitätsmedizin Berlin, Berlin, Germany*
     - **talk** entitled "Detecting normal appearing white matter damage in MS using clinical MRI"
 - *Workshop der Differentialdiagnosen der MS (MS Differential Diagnosis Workshop), Graz, Austria* 
     - **Merck funded talk** entitled "Assessing cognitive function of all MS patients at time of first diagnosis" (in German)

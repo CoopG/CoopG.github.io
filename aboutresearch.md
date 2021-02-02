@@ -73,4 +73,4 @@ Invited Talks
 - *Neuroimmunological Colloquium Neuroimmunological Colloquium, Charité - Universitätsmedizin Berlin, Berlin, Germany*
     - **talk** entitled "Detecting normal appearing white matter damage in MS using clinical MRI"
 - *Workshop der Differentialdiagnosen der MS (MS Differential Diagnosis Workshop), Graz, Austria* 
-    - **Merck funded talk** entitled "Assessing cognitive function of all MS patients at time of first diagnosis" (in German)
+    - **Merck funded talk** entitled "Assessing cognitive function of all MS patients at time of first diagnosis" (in German)

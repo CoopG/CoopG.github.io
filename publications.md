@@ -13,6 +13,18 @@ Peer-reviewed Journal Articles
 
 *Published Articles*:
 
+Sugiyama, A., Yokota, H., Hirano, S., **Cooper, G.**, Masuda, H., Mukai, H., Koide, K., Jiaqi, W., Ito, S., Finke, C., Brandt, A.U., Paul, F., & Kuwabara, S. (2020). *Magnetic resonance T1w/T2w ratio in the middle cerebellar peduncle might be a sensitive biomarker for multiple system atrophy* European Radiology. doi: 10.1007/s00330-020-07521-1.
+
+**Cooper, G.**, Hirsch, S., Scheel, M., Brandt, A.U., Finke, C., Paul, F., Boehm-Sturm, P., & Hetzer, S. (2020). *Optimization of Quantitative Multi-Parameter Mapping Protocol for Use in Longitudinal Clinical Studies.* Frontiers in Neuroscience - Brain Imaging Methods. doi: 10.3389/fnins.2020.611194
+
+Sy, M., Brandt, A.U., Lee, S-U., Newton, B.L., Pawling, J., Golzar, A., Rahman, A.A., Yu, Z., **Cooper, G.**, Scheel, M., Paul, F., Dennis, J.W., Demetriou, M. (2020). *N-Acetylglycosamine drives myelination by triggering oligodendrocyte precursor cell differentiation.* Journal of Biological Chemistry. doi: 10.1074/jbe.RA120.015595
+
+Liu, J., Mori, M., Brandt, A.U., Havla, J., Tanaka, S., Sugimoto, K., Zimmermann, H.G., Oji, S., Uzawa, A., Schidt, F., Asseyer, S., **Cooper, G.**, Bellmann-Strobl, J., Ruprecht, K., Siebert, N., Masuda, H., Uchida, T., Ohtani, R., Nomura, K., Meinl, E., Kümpfel, T., Paul, F., & Kuwabara, S. (2020). *MOG-IgG autoimmunity in Japan and Germany: different clinical profiles, treatment, and prognosis in MOG-IgG antibody-associated optic neuritis and encephalomyelitis.* Journal of Neurology, Neurosurgery and Psychiatry. doi: 10.1136/jnnp-2020-324422
+
+Voskuhl, R.R., Patel, K., Paul, F., Gold, S.M., Scheel, M., Kuchling, J., **Cooper, G.**, Asseyer, S., Chien, C., Brandt, A.U., Meyer, C.E., Mackenzie-Graham, A. (2020). *Sex Differences in Brain Atrophy in Multiple Sclerosis*. Biology of Sex Differences. doi: 10.1186/s13293-020-00326-3
+
+Juenger, V., **Cooper, G.**, Chien, C., Chikermane, M., Cosima Oertel, F., Zimmermann, H., Ruprecht, K., Jarius, S., Siebert, N., Kuchling, J., Papadopoulou, A., Asseyer, S., Bellmann-Strobl, J., Brandt, A.U., Paul, F., & Scheel, M. (2020). *Evaluation of optic chiasm measures as markers of anterior optic pathway degeneration in neuromyelitis optica spectrum disorders.* European Radiology. doi: 10.1007/s00330-020-06859-w
+
 **Cooper, G.**, Finke, C., Chien, C., Asseyer, S., Brandt, A.U., Ruprecht, K., Bellmann-Strobl, J., Paul, F., & Scheel, M. (2019). *Standardization of T1w/T2w Ratio Improves Detection of Tissue Damage in Multiple Sclerosis.* Frontiers in Neurology - Applied Neuroimaging. doi: 10.3389/fneur.2019.00334
 
 Bartels, F., Nobis, K., **Cooper, G.**, Hennes, E., Anlar, B., Cleaveland, B., Kornek, B., Blaschek, A., Schimmel, M., Blankenburg, M., Baumann, M., Karenfort, M., Finke, C., & Rostásy, K. (2019). *Childhood multiple sclerosis is associated with reduced brain volumes at first clinical presentation and brain growth failure.* Multiple Sclerosis Journal. doi: 10.1177/1352458519829698

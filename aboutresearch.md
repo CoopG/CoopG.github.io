@@ -4,9 +4,9 @@ title: About me
 subtitle: "Researcher"
 ---
 
-The main focus of my research is the application of quantitative MRI techniques in multiple sclerosis in order to improve diagnosis, better understand the disease, and develop measureable biomarkers to track treatment success. 
+The main focus of my research is the application of quantitative MRI techniques in neurological disorders in order to improve diagnosis, better understand the disease, and develop measureable biomarkers to track treatment success. During my MSc and PhD I specialised in multiple sclerosis and I am now starting to apply the same technqiues in anti-NMDA encephalitis during my post-doc.
 
-As a translational neuroscientist, I  primarily find interesting technological developments from the MRI community and translate these into the clinic by testing and applying them in multiple sclerosis. I also work with animal models of multiple sclerosis, which enables us to answer questions about the disease that require more invasive methods, such as histology, and translate the findings from these experiments back to the disease in humans. 
+As a translational neuroscientist, I  primarily find interesting technological developments from the MRI community and translate these into the clinic by testing and applying them in neurological disorders. I also work with animal models, which enables us to answer questions about the disease that require more invasive methods, such as histology, and translate the findings from these experiments back to the disease in humans. 
 
 My main expertise is in MRI analysis but I get to dip my toes in a wide range of techniques and approaches. This means that I have the opportunity to work and collaborate with a wide range of experts in different fields, utilising my organisational, project management and networking skills, which I love!
 

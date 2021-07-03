@@ -4,7 +4,7 @@ title: Music Making
 subtitle: ""
 weight: 98
 ---
-I currently sing with [Sestina](https://www.sestinamusic.com/), [Echo](https://www.echo-choir.com), the [Irish Baroque Orchestra](https://www.irishbaroqueorchestra.com/), and [Collegium Vocale Gent](https://www.collegiumvocale.com/en/) amongst other groups in Europe.
+I currently sing with [Collegium Vocale Gent](https://www.collegiumvocale.com/en/), [Sestina](https://www.sestinamusic.com/), [Echo](https://www.echo-choir.com), and the [Irish Baroque Orchestra](https://www.irishbaroqueorchestra.com/), amongst other groups in Europe.
 
  For upcoming events, take a look at the calendar below. Where tickets are available online, the link can be found in the calendar entry.
 

@@ -3,9 +3,9 @@ layout: page
 title: About me
 subtitle: "Musician"
 ---
-I am an experienced ensemble singer and alumnus of Genesis Sixteen, a highly competitive young singer's scheme run by the Sixteen. I currently work as a freelance tenor and really enjoy the opportunity to travel across Europe on a regular basis during my studies in Berlin. 
+I am an experienced ensemble singer and alumnus of Genesis Sixteen, a highly competitive young singer's scheme run by the Sixteen. I currently work as a freelance tenor and sing with a number of professional groups across Europe, including [Sestina](https://www.sestinamusic.com/), [Echo](https://www.echo-choir.com), the [Irish Baroque Orchestra](https://www.irishbaroqueorchestra.com/), and [Collegium Vocale Gent](https://www.collegiumvocale.com/en/). 
 
-See my qualifications and list of recordings and broadcasts below. Alternatively, check out my [Soundcloud](https://soundcloud.com/grahamcoopertenor) for a sample of my solo work.
+See my qualifications and list of recordings and broadcasts below or browse my upcoming performances [here](musicmaking.md).
 
 ---
 
